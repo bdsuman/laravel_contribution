@@ -1,0 +1,25 @@
+{{--
+    developer
+    git clone gitRepositoryLink (only for first time)
+    git checkout -b ownBranchName
+    daily work
+    git pull origin develop
+    do his/her own assigned work
+    git status
+    git add .
+    git commit -m "single meeting intregration done"
+    git push
+
+    Technical lead
+    git checkout develop
+    git pull
+    git merge suman
+    git push
+    git checkout ownBranch
+    git pull origin develop
+    do his/her own assigned work
+    git status
+    git add .
+    git commit -m "single meeting intregration done"
+    git push
+--}}
